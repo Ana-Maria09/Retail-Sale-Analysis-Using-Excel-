@@ -57,6 +57,8 @@ Key insights derived from the dataset:
 <img width="957" alt="retail screen" src="https://github.com/user-attachments/assets/fc737912-cf07-4cfa-806f-756fdd7ab598" />
 
 🔹 Pivot Chart Example:
+
+
 <img width="412" alt="Screenshot retail chart " src="https://github.com/user-attachments/assets/91ccf5f6-e597-4b39-8325-a6b9464dc9d2" />
 
 
